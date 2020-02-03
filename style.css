@@ -1,8 +1,10 @@
  h2 {
             color: rgb(0, 232, 15);
         }  
-        
+
+        #nav-table {width: 800px;}
+
         body {
             background-color: rgb(97, 250, 255);
         }
-#nav-table {width: 800px;}
+
