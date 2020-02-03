@@ -11,3 +11,11 @@
 #nav-td {width: 200px; text-align:center;}
 
 #par {width: 800px; text-align:center;}
+
+ #hockey-pic {
+            width: 100px;
+            float: right;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            
+        }
